@@ -1,0 +1,11 @@
+chainlit
+python-dotenv
+langchain_core
+langchain_anthropic
+langchain_ollama
+langchain_community
+neo4j
+asyncpg
+SQLAlchemy
+psycopg2-binary
+greenlet
